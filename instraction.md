@@ -20,7 +20,7 @@ git branch - показывает список веток
 
 git branch name_branch - cсоздаем ветку
 
-git diff
+git diff -показывает разницу между коммитами
 
 *Курсив*
 
