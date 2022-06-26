@@ -6,6 +6,7 @@ git add ...
 git commit -m "" 
 git log --oneline --graph
 git checkout ....
+git diff
 
 *Курсив*
 
