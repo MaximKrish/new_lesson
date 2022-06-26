@@ -20,6 +20,10 @@ git branch - показывает список веток
 
 git branch name_branch - cсоздаем ветку
 
+git branch -d name_branch - удаляем ветку
+
+git merge name_branch - обьединяем ветки (name_branch - с какой ветки сливаем коммит)
+
 git diff -показывает разницу между коммитами
 
 *Курсив*
