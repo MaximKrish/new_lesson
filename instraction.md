@@ -2,10 +2,12 @@ instraction GIT
 git init
 git --version
 git status
-git add ...
-git commit -m "" 
+git add ... добавляет файл для отслеживания
+git commit -m "" - добавляет коммит к изменению
 git log --oneline --graph
 git checkout ....
+git checkout branch_name перемещаемся на ветку
+git branch - показывает существующие ветки
 git diff
 
 *Курсив*
